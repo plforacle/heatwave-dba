@@ -36,7 +36,7 @@ Do the following to view the metrics for your DB system:
     - DB system: Displays metrics for the current DB system.
     - Backup: Displays metrics for all backups of the current DB system.
 
-![navigation mysql with metrics](./images/navigation-mysql-with-metrics.png "navigation mysql with metrics")
+    ![navigation mysql with metrics](./images/navigation-mysql-with-metrics.png "navigation mysql with metrics")
 
 ## Task 2: Stop HEATWAVE-DB Database Instance
 
@@ -78,6 +78,7 @@ Do the following to view the metrics for your DB system:
 
 ## Acknowledgements
 
-- **Author** - Perside Foster, MySQL Principal Solution Engineering
-- **Contributors** - Mandy Pang, MySQL Principal Product Manager,  Nick Mader, MySQL Global Channel Enablement & Strategy Manager
-- **Last Updated By/Date** - Perside Foster, MySQL Solution Engineering, July 2023
+- **Author** - Perside Foster, MySQL Solution Engineering
+
+- **Contributors** - Nick Mader, MySQL Global Channel Enablement & Strategy Manager
+- **Last Updated By/Date** - Perside Foster, MySQL Solution Engineering, October 2023 

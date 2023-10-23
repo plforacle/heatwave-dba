@@ -40,7 +40,7 @@ To enable high availability on a DB system, do the following:
 
     The DB system enters the UPDATING state. The selected configuration is applied to the DB system and the secondary instances are cloned from the primary instance. If the updating process fails, the DB system returns to a standalone state. Check the work request for information.
 
-## Task 2: Perform a Switchove
+## Task 2: Perform a Switchover
 
 You can manually promote one of the secondary MySQL instances as the primary instance. This is called as switchover.
 
@@ -68,5 +68,5 @@ You may now **proceed to the next lab**
 
 - **Author** - Perside Foster, MySQL Solution Engineering
 
-- **Contributors** - Abhinav Agarwal, Senior Principal Product Manager, Nick Mader, MySQL Global Channel Enablement & Strategy Manager
-- **Last Updated By/Date** - Perside Foster, MySQL Solution Engineering, May 2023
+- **Contributors** - Nick Mader, MySQL Global Channel Enablement & Strategy Manager
+- **Last Updated By/Date** - Perside Foster, MySQL Solution Engineering, October 2023

@@ -9,7 +9,7 @@ In this workshop, you will learn how to manually launch your MySQL HeatWave DB, 
 
 _Estimated Time:_ 1 hours
 
-### About Product/Technology
+## About Product/Technology
 
 Oracle MySQL HeatWave is a fully managed Oracle Cloud Infrastructure (OCI) database service that lets developers quickly develop and deploy secure, cloud native applications. MySQL HeatWave is 100% built, managed, and supported by the OCI and MySQL engineering teams. One MySQL cloud database service for transactions, real-time analytics across data warehouses and data lakes, and machine learning (ML)—without the complexity, latency, risks, and cost of extract, transform, and load (ETL) duplication. Available on Oracle Cloud Infrastructure (OCI), Amazon Web Services (AWS), and Microsoft Azure.
 
@@ -40,8 +40,5 @@ You may now **proceed to the next lab**
 
 - **Author** - Perside Foster, MySQL Solution Engineering
 
-- **Contributors** - Abhinav Agarwal, Senior Principal Product Manager, Nick Mader, MySQL Global Channel Enablement & Strategy Manager
-- **Last Updated By/Date** - Perside Foster, MySQL Solution Engineering, September 2023
-
-
-[def]: videohub:VideoID
+- **Contributors** - Nick Mader, MySQL Global Channel Enablement & Strategy Manager
+- **Last Updated By/Date** - Perside Foster, MySQL Solution Engineering, October 2023
